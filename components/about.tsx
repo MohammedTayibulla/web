@@ -28,7 +28,7 @@ export default function About() {
         My journey in software development has provided me with valuable experience in the development life cycle, allowing me to refine applications for optimal performance. I am always eager to learn new technologies, tackle fresh challenges, and collaborate on projects.
       </p>
       <p>
-        <span className="italic">When I'm not coding</span>, I enjoy playing
+        <span className="italic">When I am not coding</span>, I enjoy playing
         video games, watching movies, and travelling.
       </p>
     </motion.section>
