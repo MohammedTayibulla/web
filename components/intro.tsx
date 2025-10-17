@@ -27,8 +27,8 @@ export default function Intro() {
             }}
           >
             <Image
-              src="https://media.licdn.com/dms/image/v2/D5603AQFZU7V8AMgYvA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1674189836999?e=1753315200&v=beta&t=aJOUDcMXP13bXJQPnHIDyM1NJArIg5rPM_c27crV32k"
-              alt="Ricardo portrait"
+              src="https://res.cloudinary.com/dxjrvvjp1/image/upload/tayib-photo_efi7pv.jpg"
+              alt="Mohammed Tayibulla"
               width="192"
               height="192"
               quality="95"
